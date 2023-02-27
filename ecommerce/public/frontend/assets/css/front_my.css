@@ -1,0 +1,561 @@
+#footer .module-body ul li {
+    margin-top: 0;
+    float: left;
+}
+
+.footer_p {
+    line-height: 30px;
+    margin-right: 40px;
+    color: white;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.m-t-5 {
+    margin-top: 5px;
+}
+
+.m-t-10 {
+    margin-top: 10px;
+}
+
+.m-t-15 {
+    margin-top: 15px;
+}
+
+.m-t-20 {
+    margin-top: 20px;
+}
+
+.m-t-25 {
+    margin-top: 25px;
+}
+
+.m-t-30 {
+    margin-top: 30px;
+}
+
+.m-t-35 {
+    margin-top: 35px;
+}
+
+.m-t-40 {
+    margin-top: 40px;
+}
+
+.m-b-5 {
+    margin-bottom: 5px;
+}
+
+.m-b-10 {
+    margin-bottom: 10px;
+}
+
+.m-b-15 {
+    margin-bottom: 15px;
+}
+
+.m-b-20 {
+    margin-bottom: 20px;
+}
+
+.m-b-25 {
+    margin-bottom: 25px;
+}
+
+.m-b-30 {
+    margin-bottom: 30px;
+}
+
+.m-b-35 {
+    margin-bottom: 35px;
+}
+
+.m-b-40 {
+    margin-bottom: 40px;
+}
+
+.p-0 {
+    padding: 0;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.p-x-0 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.d-line-block {
+    display: inline-block;
+}
+
+.invalid-feedback[role=alert] {
+    color: red;
+}
+
+
+.line-2 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+}
+
+.line-1 {
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+}
+
+.relative {
+    position: relative;
+}
+
+.font-normal {
+    font-weight: normal;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+
+/* footer fix bottom */
+.cnt-home {
+    position: relative;
+    min-height: 100vh;
+}
+
+.footer_bottom {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+.body-content {
+    padding-bottom: 100px;
+}
+/* end footer fix bottom */
+
+
+/* user profile shipping/billing */
+.bbox {
+    background-color: oldlace;
+    border: 1px solid #e2e2e2;
+    border-radius: 14px;
+    padding: 10px;
+    margin: 0 5px 5px 0;
+    height: 145px;
+    position: relative;
+}
+
+.bbox_btn {
+    position: absolute;
+    bottom: 10px;
+}
+
+.bbox_flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* user profile shipping/billing end */
+
+.transform-none {
+    text-transform: none !important;
+}
+
+.shopage-left .panel-title {
+    cursor: pointer;
+}
+
+.pagination-container .list-inline .active {
+    background-color: #eee;
+}
+
+.no_record {
+    font-size: 16px;
+    color: #444;
+    font-weight: bold;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+
+
+.top-cart-row .dropdown-cart .lnk-cart .items-cart-inner .basket.basket_my {
+    float: none;
+    display: inline-block;
+    padding: 12px;
+}
+
+.top-cart-row .dropdown-cart .lnk-cart .items-cart-inner .basket-item-count.basket-item-count-my {
+    position: relative;
+    margin: 0 12px;
+    float: none;
+    top: 0;
+    left: 0;
+    display: inline-block;
+}
+
+.single-product .product-info .quantity-container .cart-quantity .quant-input .arrows .arrow.arrow_my {
+    width: auto;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.detail-block .desc_my {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.detail-block .text_my {
+    margin: 20px 0 10px;
+}
+
+.middle_my {
+    background-color: #fbfbfb;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.middle_title_my {
+    margin-bottom: 10px;
+}
+
+.middle_slogan_my {
+}
+
+.btn_wrap_my {
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+}
+
+.btn_item_my {
+    width: 300px;
+}
+
+.btn_text_my {
+    margin-bottom: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.btn_go_my {
+    background-image: linear-gradient(to right,#2dd4bf,#3b82f6);
+    padding: 40px 10px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.btn_item_my:first-child {
+    margin-right: 40px;
+}
+
+.header-style-1 {
+    padding-bottom: 20px;
+}
+
+.recomm_wrap {
+    padding: 10px 0;
+}
+
+.recomm_list_my {
+    margin-bottom: 25px;
+}
+
+.recomm_list_title_my {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.recomm_item_my {
+
+}
+
+.recomm_btn_my {
+    margin-right: 10px;
+}
+
+.recomm_bar_my {
+    margin-top: 30px;
+}
+
+
+.recomm_wrap_my {
+    text-align: center;
+    margin: -10px 0 30px;
+}
+
+.recomm_title_my {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.recomm_bottom_my {
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.recomm_txt_my.badge {
+    font-size: 15px;
+    padding: 5px 10px;
+}
+
+.recomm_btn_my {
+    margin-left: 20px;
+}
+
+
+.order_top {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.order_top_left {
+    text-align: center;
+    padding: 0 30px;
+}
+
+.order_top_left i {
+    font-size: 40px;
+    font-weight: bold;
+    color: green;
+}
+
+.order_top_right {
+    flex: 1;
+}
+
+.order_top_invoice {
+    font-size: 20px;
+}
+
+.order_top_invoice span {
+    color: #ab0202;
+}
+
+.order_top_username {
+    font-size: 25px;
+}
+
+.order_top_order {
+    font-size: 18px;
+}
+
+.order_confirmed {
+    margin: 30px 0;
+}
+
+.order_confirmed_msg {
+    font-size: 15px;
+    margin: 10px 0;
+}
+
+.customer_wrap {
+    margin: 30px 0 10px;
+}
+
+.customer_title {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.customer_subtitle {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.customer_info {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 5px;
+}
+
+.customer_sub {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.ship-list-item {
+    letter-spacing: -0.3px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+}
+
+
+.swal2-container .swal2-popup {
+    font-size: 1.5rem;
+}
+
+.label_only {
+    padding: 10px 20px;
+    background-color: #eee;
+}
+
+/* checkout ship address choose */
+.bbox_wrap {
+    overflow-x: auto;
+    white-space: nowrap;
+    width: 100%;
+    padding: 10px 0;
+}
+.bbox_out {
+    width: 33%;
+    display: inline-block;
+    cursor: pointer;
+    vertical-align: top;
+}
+.bbox_plain {
+    border: 1px solid #e2e2e2;
+    border-radius: 14px;
+    padding: 10px;
+    margin: 0 5px 5px 0;
+    height: 145px;
+    position: relative;
+}
+.bbox_plain .bbox_btn {
+    display: none;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.bbox_plain.checked {
+    background-color: oldlace;
+}
+.bbox_plain.checked .bbox_btn {
+    display: block;
+}
+.bbox_plain .line-1 {
+    margin-bottom: 10px;
+}
+.shipp_choose::before {
+    color: green;
+    font-size: 26px;
+}
+.bbox_plain.bbox_plain_new {
+    color: #000096;
+    text-align: center;
+    padding-top: 60px;
+}
+/* end checkout ship address choose */
+
+
+/* strip ship method radio  */
+.ship_radio_wrap input[type=radio] {
+    margin-top: 2px;
+}
+/* end strip ship method radio  */
+
+
+/* add bootstrap media */
+.chat_wrap .media-body {
+    width: 10000px;
+}
+.chat_wrap .media-body, .chat_wrap .media-left, .chat_wrap .media-right {
+    display: table-cell;
+    vertical-align: top;
+}
+.chat_wrap .media-left, .chat_wrap .media>.pull-left {
+    padding-right: 10px;
+}
+
+.chat_wrap .media-body, .chat_wrap .media-left, .chat_wrap .media-right {
+    display: table-cell;
+    vertical-align: top;
+}
+.chat_wrap .media-right, .chat_wrap .media>.pull-right {
+    padding-left: 10px;
+}
+
+.chat_wrap .media {
+    margin-bottom: 15px;
+    display: table;
+    width: 100%;
+
+    box-shadow: 0 10px 15px -5px rgba(0, 0, 0, 0.07);
+}
+.chat_wrap .msg_date {
+    color: #969696;
+    margin-left: 6px;
+}
+/* .chat_wrap .msg_head {
+}
+.chat_wrap .msg_content {
+} */
+.chat_wrap .media-object {
+    width: 64px;
+    height: 64px;
+}
+.chat_main {
+    height: 400px;
+    overflow-y: auto;
+    padding: 5px;
+    border: 1px solid #848484;
+}
+.chat_tool {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* end add bootstrap media */
+
+
+
+/* kefu */
+.kefu_wrap {
+    position: fixed;
+    bottom: 20%;
+    right: 0;
+}
+.kefu_icon {
+    width: 60px;
+    height: 60px;
+    animation: swinging 1.5s ease-in-out forwards infinite;
+    cursor: pointer;
+}
+@keyframes swinging{
+    0%{transform: rotate(3deg);}
+    25%{transform: rotate(-3deg)}
+    50%{transform: rotate(3deg)}
+    70%{transform: rotate(-3deg)}
+    100%{transform: rotate(3deg)}
+}
+/* end kefu */
+
+
+/* recommendation_modal */
+#recommendation_modal .btn-default, #recommendation_modal .btn-default:hover, #recommendation_modal .btn-default:focus {
+    background: #f1f1f1;
+    color: #656565;
+}
+/* end recommendation_modal */

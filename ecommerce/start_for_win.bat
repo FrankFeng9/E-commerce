@@ -1,0 +1,3 @@
+CHCP 65001
+php workerman_start\start_register.php workerman_start\start_gateway.php workerman_start\start_businessworker.php
+pause
