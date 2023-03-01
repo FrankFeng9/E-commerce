@@ -9,22 +9,13 @@
 -->
 
 
-<h4  align="center">E-commerce</h4>
 
 <p  align="center">
 
-full-stack e-commerce website that includes an inventory management system and live chat support  
-
-
-
-<b><a  href="http://43.139.103.72:8115/">View Demo</a></b>              $~~~~~~$ Credentials： ``frankf@gmail.com``  $~~$    `Test12345`
-
-<b><a  href="http://43.139.103.72:8115/admin/login"> Admin Login</a></b>   $~~~~$ Credentials： ``admin@gmail.com``  $~~$    `Admin12345` 
-
+Full-stack e-commerce website that includes an inventory management system and live chat support  
 
 
 ### Key Features
-
 - Secure user authentication with email verification
 -  Personalized product recommendations based on user preferences and budget
 - Comprehensive product catalog with search and filter functionalities
@@ -34,8 +25,24 @@ full-stack e-commerce website that includes an inventory management system and l
 -  Built-in live chat function using the Workman Socket framework
 
 
-#### Built With          
+
+
+#### Built With 
 [![Laravel][Laravel.com]][Laravel-url] [![MySQL][MySQL.com]][MySQL.url] [![Stripe][Stripe.com]][Stripe-url]  [![JQuery][JQuery.com]][JQuery-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url]  [![html][html.com]][html.url]  [![css][css.com]][css.url]  
+
+
+<b><a  href="http://43.139.103.72:8115/">View Demo</a></b>              $~~~~~~$ Credentials： ``frankf@gmail.com``  $~~$    `Test12345`
+
+<b><a  href="http://43.139.103.72:8115/admin/login"> Admin Login</a></b>   $~~~~$ Credentials： ``test_admin@gmail.com``  $~~$    `Admin12345` 
+
+<br>
+
+
+
+
+<img src="ecommerce/screenshot/homepage.png" width="340" height="350" title="homepage">  <img src="ecommerce/screenshot/filter.png" width="330" height="350" title="filter"> <img src="ecommerce/screenshot/product%20detaisl.png" width="330" height="350" title="filter">
+
+<img src="ecommerce/screenshot/order%20history.png" width="340" height="350" title="homepage">  <img src="ecommerce/screenshot/product%20management.png" width="330" height="350" title="filter"> <img src="ecommerce/screenshot/sales%20chart.png" width="330" height="350" title="filter">
 
 ### Installation and Setup
 
