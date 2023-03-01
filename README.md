@@ -23,9 +23,9 @@ full-stack e-commerce website that includes an inventory management system and l
 
 
 
-<h4><a  href="http://43.139.103.72:8115/">View Demo</a> $~~~~$   <a  href="http://43.139.103.72:8115/admin/login"> Admin Login</a> <h4>
+<b><a  href="http://43.139.103.72:8115/">View Demo</a></b>              $~~~~~~$ Credentials： ``frankf@gmail.com``  $~~$    `Test12345`
 
-Admin Credentials： ``admin@gmail.com``  $~~$    `Admin12345` 
+<b><a  href="http://43.139.103.72:8115/admin/login"> Admin Login</a></b>   $~~~~$ Credentials： ``admin@gmail.com``  $~~$    `Admin12345` 
 
 
   
