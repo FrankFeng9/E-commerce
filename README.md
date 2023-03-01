@@ -40,7 +40,7 @@ Full-stack e-commerce website that includes an inventory management system and l
 
 
 
-<img src="ecommerce/screenshot/homepage.png" width="330" height="350" title="homepage">  <img src="ecommerce/screenshot/filter.png" width="330" height="350" title="filter"> <img src="ecommerce/screenshot/product%20detaisl.png" width="330" height="350" title="filter">
+<img src="ecommerce/screenshot/homepage.png" width="300" height="350" title="homepage">  <img src="ecommerce/screenshot/filter.png" width="300" height="350" title="filter"> <img src="ecommerce/screenshot/product%20detaisl.png" width="300" height="350" title="filter">
 
 <img src="ecommerce/screenshot/order%20history.png" width="340" height="350" title="homepage">  <img src="ecommerce/screenshot/product%20management.png" width="330" height="350" title="filter"> <img src="ecommerce/screenshot/sales%20chart.png" width="330" height="350" title="filter">
 
